@@ -1,0 +1,9 @@
+# Keil uVision build files
+Objects/
+Listings/
+*.uvgui.*
+*.opt
+*.bak
+*.dep
+*.uvprojx.bak
+*.uvoptx.bak
